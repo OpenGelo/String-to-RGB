@@ -1,0 +1,8 @@
+ada banyak cara, ada yg ke jpeg (biasanya fungsinya imagestream) dan kebalikanya 
+ada juga yang ke rgb, pakai pointer, yg ada fungsi lockbit
+ada juga yg ke ascii
+
+beda cara konversi string ke hexa, bisa beda hasil atau kegunaan
+ada yg bisa utk jpeg (biasanya hasil hexanya awalanya FFD8)
+ada yg bisa utk rgb (jelas langsung hasil hexanya)
+ada yg bisa utk ascii

@@ -1,0 +1,33 @@
+C:\Users\cucueinstein\AppData\Local\Temporary Projects\image pointer\obj\x86\Debug\image_pointer.Form1.resources
+C:\Users\cucueinstein\AppData\Local\Temporary Projects\image pointer\obj\x86\Debug\image_pointer.Properties.Resources.resources
+C:\Users\cucueinstein\AppData\Local\Temporary Projects\image pointer\obj\x86\Debug\image pointer.csproj.GenerateResource.Cache
+C:\Users\cucueinstein\AppData\Local\Temporary Projects\image pointer\bin\Debug\image pointer.exe
+C:\Users\cucueinstein\AppData\Local\Temporary Projects\image pointer\bin\Debug\image pointer.pdb
+C:\Users\cucueinstein\AppData\Local\Temporary Projects\image pointer\obj\x86\Debug\image pointer.exe
+C:\Users\cucueinstein\AppData\Local\Temporary Projects\image pointer\obj\x86\Debug\image pointer.pdb
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\image pointer\image pointer\obj\x86\Debug\image pointer.exe
+C:\Users\cucueinstein\documents\visual studio 2010\Projects\image pointer\image pointer\obj\x86\Debug\image pointer.pdb
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\image pointer\image pointer\obj\x86\Debug\image_pointer.Form1.resources
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\image pointer\image pointer\obj\x86\Debug\image_pointer.Properties.Resources.resources
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\image pointer\image pointer\obj\x86\Debug\image pointer.csproj.GenerateResource.Cache
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\image pointer\image pointer\bin\Debug\image pointer.exe
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\image pointer\image pointer\bin\Debug\image pointer.pdb
+C:\Users\cucueinstein\Documents\Visual Studio 2010\Projects\image pointer\image pointer\obj\x86\Debug\image pointer.csprojResolveAssemblyReference.cache
+D:\image ke string dan kebalikanya berbagai cara\image pointer\obj\x86\Debug\image pointer.exe
+D:\image ke string dan kebalikanya berbagai cara\image pointer\obj\x86\Debug\image pointer.pdb
+D:\image ke string dan kebalikanya berbagai cara\image pointer\bin\Debug\image pointer.exe
+D:\image ke string dan kebalikanya berbagai cara\image pointer\bin\Debug\image pointer.pdb
+D:\image ke string dan kebalikanya berbagai cara\image pointer\obj\x86\Debug\image pointer.csprojResolveAssemblyReference.cache
+D:\image ke string dan kebalikanya berbagai cara\image pointer\obj\x86\Debug\image_pointer.Form1.resources
+D:\image ke string dan kebalikanya berbagai cara\image pointer\obj\x86\Debug\image_pointer.Properties.Resources.resources
+D:\image ke string dan kebalikanya berbagai cara\image pointer\obj\x86\Debug\image pointer.csproj.GenerateResource.Cache
+D:\RISET & OPREK\image ke string dan kebalikanya berbagai cara\image pointer\obj\x86\Debug\image pointer.exe
+D:\RISET & OPREK\image ke string dan kebalikanya berbagai cara\image pointer\obj\x86\Debug\image pointer.pdb
+D:\RISET & OPREK\Image to RGB\image pointer\obj\x86\Debug\image pointer.exe
+D:\RISET & OPREK\Image to RGB\image pointer\obj\x86\Debug\image pointer.pdb
+D:\RISET & OPREK\Image to RGB\image pointer\bin\Debug\image pointer.exe
+D:\RISET & OPREK\Image to RGB\image pointer\bin\Debug\image pointer.pdb
+D:\RISET & OPREK\Image to RGB\image pointer\obj\x86\Debug\image pointer.csprojResolveAssemblyReference.cache
+D:\RISET & OPREK\Image to RGB\image pointer\obj\x86\Debug\image_pointer.Form1.resources
+D:\RISET & OPREK\Image to RGB\image pointer\obj\x86\Debug\image_pointer.Properties.Resources.resources
+D:\RISET & OPREK\Image to RGB\image pointer\obj\x86\Debug\image pointer.csproj.GenerateResource.Cache
